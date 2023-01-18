@@ -2,9 +2,10 @@
 
 ## Integrantes
 
-Poner nombres y roles dentro del equipo.
 Andrés Pérez Castellano (alu0101313511) - Software Engineer
+
 Daniel García Hernández (alu0101353340) - Level Designer
+
 Diego Pérez García (alu0101345918)      - Game Mechanics
 
 ## Uso de la aplicación
