@@ -33,3 +33,5 @@ realidad virtual Google Cardboard. El usuario puede situarse en un terreno donde
 ## Ejemplo de ejecución
 
 Gif animado de ejecución
+
+![Gif animado de ejecución](demo_gif.gif)
