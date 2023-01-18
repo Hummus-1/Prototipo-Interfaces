@@ -57,8 +57,6 @@ public class Begin : MonoBehaviour
                 }
                 if (timer > 5f) {
                     setup = false;
-                    // dani habla a 40db -> sensitividad a 125db
-                    // diego habla a 15db -> sensitividad a 300db
                     streamController.sensitivity = 5000 / maxSetupDB;
                     message.text = $"Supera los {startBound}db para comenzar";
                 }
